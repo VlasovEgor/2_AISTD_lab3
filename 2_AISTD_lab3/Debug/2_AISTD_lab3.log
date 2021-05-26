@@ -1,0 +1,14 @@
+﻿  2_AISTD_lab3.cpp
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(14,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(92,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Floyd.h(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\2_AISTD_lab3.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\2_AISTD_lab3.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\2_AISTD_lab3.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+  2_AISTD_lab3.vcxproj -> C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2_AISTD_lab3\Debug\2_AISTD_lab3.exe
